@@ -4,21 +4,21 @@
         <description><![CDATA[Good Grades]]></description>
         <link>https://thegrid.ai/good-grades/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 23:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 23:03:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/good-grades/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[COLORIST]]></title>
+            <description><![CDATA[<article><h1>COLORIST</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6df41f7e05ccf1537634b70abef14bda69a58dd.jpg"></article>]]></description>
+            <link>http://colormatters.tv/#/kygo-stay/</link>
+            <guid isPermaLink="false">6805be18-7e29-438c-a0ea-f8c5a5e16efc</guid>
+            <pubDate>Mon, 11 Apr 2016 23:03:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[COLORIST]]></title>
             <description><![CDATA[<article><h1>COLORIST</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35682fbd-ef42-4396-ab35-3dcfbabdce40.jpg"></article>]]></description>
             <link>http://colormatters.tv/#/golden-1-credit-union-credit-card/</link>
             <guid isPermaLink="false">84ef046e-f9f7-40f8-bc63-d91ff16862e0</guid>
             <pubDate>Mon, 11 Apr 2016 23:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COLORIST]]></title>
-            <description><![CDATA[<article><h1>COLORIST</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6df41f7e05ccf1537634b70abef14bda69a58dd.jpg"></article>]]></description>
-            <link>http://colormatters.tv/#/kygo-stay/</link>
-            <guid isPermaLink="false">6805be18-7e29-438c-a0ea-f8c5a5e16efc</guid>
-            <pubDate>Mon, 11 Apr 2016 22:13:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
