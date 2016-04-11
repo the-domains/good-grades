@@ -2,6 +2,7 @@ name: Good Grades
 favicon: null
 layout_spectrum: 0.21404877677559853
 typography_spectrum: 0.10217068367637694
+title: Good Grades
 cta:
   domain: null
   bucket: null
