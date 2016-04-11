@@ -1,0 +1,28 @@
+name: Good Grades
+favicon: null
+layout_spectrum: 0.21404877677559853
+typography_spectrum: 0.10217068367637694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9602837022393942
+  lightness: 0.9012301408220083
+  saturation: 0.4385275586973876
+  rhythmicContrast: 0.8057192543055862
+purpose: []
